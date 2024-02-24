@@ -141,7 +141,7 @@
 	  </div>
 	  <div class="col col-lg-2">
 
-		<select bind:value={selected}>
+		<select class="form-select" bind:value={selected}>
 			{#each bfs_number_names as bfs}
 				<option value={bfs}>
 					{bfs.name}
