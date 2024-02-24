@@ -105,7 +105,8 @@
 		{id: 31, name: `Henggart` },
 		{id: 25, name: `Dachsen` },
 		{id: 3, name: `Bonstetten` },
-		{id: 51, name: `Bachenbülach` }
+		{id: 51, name: `Bachenbülach` },
+		{id: 295, name: `Horgen` }
 	];
 
 	let rooms;
